@@ -14,9 +14,9 @@ https://www.microsoft.com/en-in/download/details.aspx?id=27870
  AFTER COMPLETION OF INSTALLATION 
  1. click u r window button and select all apps option then u will Find 
     Microsoft Expression Folder in that u will find two applications 
-        1. Microsoft Expression Encoder 4 Screen Capture:
+    1. Microsoft Expression Encoder 4 Screen Capture:
                         it is used to capture the desktop as a video
-        2.  Microsoft Expression Encoder 4:
+    2.  Microsoft Expression Encoder 4:
                     it is a Video Editor
 
 Further details Check this Youtubelink : https://youtu.be/7QQOGLYhRdo
